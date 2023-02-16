@@ -1,0 +1,8 @@
+leetcode.com/problems/palindrome-number/
+
+Return true or false depending on if the number is a palindrome number or not.
+
+A palindrome number is a number that can be read left to right same as right to left.
+
+For example 121 is 121 backwards aka its a palindrome number.
+-121 is not a palindrome number as it reads as 121-.
