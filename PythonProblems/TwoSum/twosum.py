@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution(object):#https://leetcode.com/problems/two-sum/
     def twoSum(self, nums, target):
         for index, value in enumerate(nums):
             for index2, value2 in enumerate(nums):

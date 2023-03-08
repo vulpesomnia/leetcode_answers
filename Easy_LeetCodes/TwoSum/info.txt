@@ -1,7 +1,0 @@
-https://leetcode.com/problems/two-sum/
-
-Theres 2 variables: nums and target.
-
-From the array nums get 2 numbers that add up to target.
-Return the indexes of those 2 numbers in nums.
-

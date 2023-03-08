@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution(object):#leetcode.com/problems/palindrome-number/
     def isPalindrome(self, x):
         reverse = []
         y = list(str(x))
