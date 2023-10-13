@@ -37,3 +37,9 @@ public:
        return sum + prev_value;//Since at the end previous value isn't added to sum we add it here.
     }
 };
+/*
+BEST(simplest) SOLUTION:
+subtract if next index is smaller
+otherwise add
+simple stuffs
+*/
